@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/yourusername/yourusername/raw/main/banner.png)
 
 ## 🚀 About Me
-I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria 🇳🇬. Passionate about **frontend development**, **ethical hacking**, and building innovative **web and mobile applications**. Currently exploring **bug bounty hunting** and security testing.
+I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria 🇳🇬. Passionate about building innovative **web and mobile applications**. Currently exploring **ML/AI** and security testing.
 
 ## 💻 Tech Stack
 
@@ -12,6 +12,8 @@ I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria �
 **Backend:** Node.js, Express, MongoDB, Supabase, Firebase
 
 **Mobile:** React Native, Expo
+
+**Python:** Tensorflow, panda, skilearn and others
 
 **Security:** Burp Suite, Kali Linux, Ethical Hacking, Bug Bounty
 
