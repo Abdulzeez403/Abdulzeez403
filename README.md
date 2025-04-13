@@ -1,6 +1,5 @@
 # Hi there, I'm Abdulazeezsodiq! 👋
 
-![Profile Banner](https://github.com/yourusername/yourusername/raw/main/banner.png)
 
 ## 🚀 About Me
 I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria 🇳🇬. Passionate about building innovative **web and mobile applications**. Currently exploring **ML/AI** and security testing.
@@ -20,8 +19,6 @@ I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria �
 **Other:** Playwright (Testing), Web Scraping, Trading Bots
 
 ## 🔥 Featured Projects
-
-- **🎥 Loom Clone** - Screen recording Chrome extension using MERN
 - **📱 Note-Taking App** - Speech-to-text, recording, and sharing
 - **🛍️ E-commerce App** - Built with Next.js, Redux, and Supabase
 - **📊 Trading Bot** - Automated trading strategies with Binance API
@@ -30,7 +27,7 @@ I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria �
 
 - **Twitter:** [@YourTwitter](https://twitter.com/yourhandle)
 - **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **Portfolio:** [yourwebsite.com](https://abdulazeezsodiq.vercel.app)
 
 ## 📊 GitHub Stats
 
