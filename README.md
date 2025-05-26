@@ -18,11 +18,6 @@ I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria �
 
 **Other:** Playwright (Testing), Web Scraping, Trading Bots
 
-## 🔥 Featured Projects
-- **📱 Note-Taking App** - Speech-to-text, recording, and sharing
-- **🛍️ E-commerce App** - Built with Next.js, Redux, and Supabase
-- **📊 Trading Bot** - Automated trading strategies with Binance API
-
 ## 🌍 Connect With Me
 
 - **Twitter:** [@YourTwitter](https://twitter.com/yourhandle)
