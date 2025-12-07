@@ -8,7 +8,7 @@ I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from Nigeria ðŸ‡
 
 **Frontend:** React, Next.js, Tailwind CSS, TypeScript
 
-**Backend:** Node.js, Express, MongoDB, Supabase, Firebase
+**Backend:** Java, Spring-boot, Node.js, Express, MongoDB, Supabase, Firebase
 
 **Mobile:** React Native, Expo
 
